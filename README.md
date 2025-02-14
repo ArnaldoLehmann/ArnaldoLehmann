@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-Oi! Meu nome é **Arnaldo Lehmann**, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca de estágio ou trabalhos para ganhar experiência e aprender mais. Atualmente, estou estudando **Java** e me aprofundando no desenvolvimento backend.
+Prazer! Meu nome é **Arnaldo Lehmann**, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca de estágio ou trabalhos para ganhar experiência e aprender mais. Atualmente, estou estudando **Java** e me aprofundando no desenvolvimento backend.
 
 ---
 
