@@ -40,7 +40,7 @@ Meu objetivo é me tornar um **Desenvolvedor Fullstack**, com foco principal no 
 ## 💬 Vamos nos conectar!
 Se quiser trocar ideias ou acompanhar minha jornada, entre em contato:
 
-📧 Email: **arnaldoneto951@gmail.com 
-🔗 [LinkedIn]https://www.linkedin.com/in/arnaldo-lehmann951/
+📧 Email: **arnaldoneto951@gmail.com** 
+🔗 [LinkedIn] https://www.linkedin.com/in/arnaldo-lehmann951/
 
 ---
