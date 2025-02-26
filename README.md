@@ -22,6 +22,7 @@ Meu objetivo é me tornar um **Desenvolvedor Fullstack**, com foco principal no 
 
 ### Backend
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
